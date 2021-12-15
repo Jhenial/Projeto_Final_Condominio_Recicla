@@ -1,6 +1,6 @@
 # Projeto_Final_Condominio_Recicla
 ```diff
-+            A REPROGRAMA por aqui é VERDE! ♻️                 Bootcamp - Todas em Tech, turma 14° de Back-End.
++          A REPROGRAMA por aqui é VERDE! ♻️            Bootcamp - Todas em Tech, turma 14° de Back-End.
 ```
 ![logoanimado_gif](https://user-images.githubusercontent.com/86132904/146177159-b5cf1c6b-1c90-4d09-aad5-af2ab08e8ee3.gif)
 
