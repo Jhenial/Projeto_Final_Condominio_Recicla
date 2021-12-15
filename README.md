@@ -90,9 +90,6 @@ O projeto final consiste em uma API fundamentada no CRUD, que são: CREATE (CRIA
 - [dotenv](https://www.npmjs.com/package/dotenv)
 - [Mongoose](https://mongoosejs.com/)
 - [cors](https://www.npmjs.com/package/cors)
-- [JWT](https://www.npmjs.com/package/jsonwebtoken)
-- [Bcrypt](https://www.npmjs.com/package/bcrypt)
-- [swagger-ui-express](https://www.npmjs.com/package/swagger-ui-express)
 
 <br>
   
@@ -114,7 +111,7 @@ O projeto final consiste em uma API fundamentada no CRUD, que são: CREATE (CRIA
    |         |- 📑 reciclaSchema.js     
    |
    |    |- 📁 routes
-   |         |- 📑 cestasSolidariasRoutes.js 
+   |         |- 📑 reciclaRoutes 
    |         
    |    |- 📑 app.js
    |
