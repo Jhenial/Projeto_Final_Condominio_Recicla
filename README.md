@@ -134,7 +134,7 @@ O projeto final consiste em uma API fundamentada no CRUD, que são: CREATE (CRIA
 
 * Heroku: 
 
-* Utilize o [Postman](https://www.postman.com/) ou [Insomnia](https://insomnia.rest/download/) para para chamar e testar os endpoints da API localmente ou via Heroku.
+* Utilize o [Postman](https://www.postman.com/) para para chamar e testar os endpoints da API localmente ou via Heroku.
 
 <br>
   
