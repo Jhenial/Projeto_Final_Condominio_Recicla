@@ -82,3 +82,50 @@ O projeto final consiste em uma API fundamentada no CRUD, que são: CREATE (CRIA
 - [MongoDBatlas](https://www.mongodb.com/cloud/atlas)
 - [Postman](https://www.postman.com/)
 - [Vscode](https://code.visualstudio.com/)
+
+ ### Pacotes Utilizados:
+
+- [Express](https://expressjs.com/pt-br/)
+- [Nodemon](https://nodemon.io/)
+- [dotenv](https://www.npmjs.com/package/dotenv)
+- [Mongoose](https://mongoosejs.com/)
+- [cors](https://www.npmjs.com/package/cors)
+- [JWT](https://www.npmjs.com/package/jsonwebtoken)
+- [Bcrypt](https://www.npmjs.com/package/bcrypt)
+- [swagger-ui-express](https://www.npmjs.com/package/swagger-ui-express)
+
+<br>
+  
+
+## 📁 Arquitetura MVC 
+
+```
+ 📁 projeto_final_condominio_recicla
+   |
+   |-  📁 src
+   |    |
+   |    |- 📁 controllers
+   |         |- 📑 reciclaControllers.js
+   |
+   |    |- 📁 database
+   |         |- 📑 config.js
+   |
+   |    |- 📁 models
+   |         |- 📑 reciclaSchema.js     
+   |
+   |    |- 📁 routes
+   |         |- 📑 cestasSolidariasRoutes.js 
+   |         
+   |    |- 📑 app.js
+   |
+   |- 📑 .env
+   |- 📑 .env.example
+   |- 📑 .gitignore
+   |- 📑 package-lock.json
+   |- 📑 package.json
+   |- 📑 README.md
+   |- 📑 server.js
+```
+<br>
+  
+ 
