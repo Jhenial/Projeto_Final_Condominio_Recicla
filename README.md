@@ -1,11 +1,10 @@
 # Projeto_Final_Condominio_Recicla
 
-<br>
-<h1  align= "center">
 ![logoanimado_gif](https://user-images.githubusercontent.com/86132904/146177159-b5cf1c6b-1c90-4d09-aad5-af2ab08e8ee3.gif)
 
+<br>
+<h1  align= "center">
 <p> O Condomínio, recicla! faz parte do Projeto Final do Bootcamp da REPROGRAMA - Todas em Tech, turma 14° de Back-End. ♻️  </p>
-
 <br>
 
 
