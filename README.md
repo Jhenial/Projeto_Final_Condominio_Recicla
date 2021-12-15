@@ -22,10 +22,10 @@
  
 ### **Você Sabia?**
 
- - O lixo quando em contato com o solo, ou em aterros sanitários gera os gáses carbono e   o metano, este ultimo é considerado o responsável pelo efeito estufa. Quando o lixo é   descartado nas ruas, rios, esgotos... o problema retorna para as nossas vidas, como     probleas de saúde; alagamento; compromete as estações de tratamento de água e esgosto   (prejudicando a chegada de água para a população), entre outros transtornos que podem   ser evtiados com a RESPOSABILIDADE SOCIOAMBIENTAL.;
+ - O lixo quando em contato com o solo, ou em aterros sanitários gera os gases carbono e o metano, este ultimo é considerado o responsável pelo efeito estufa. Quando o lixo é   descartado nas ruas, rios, esgotos... o problema retorna para as nossas vidas, como probleas de saúde; alagamento; compromete as estações de tratamento de água e esgosto   (prejudicando a chegada de água para a população), entre outros transtornos que podem ser evtiados com a RESPOSABILIDADE SOCIOAMBIENTAL.;
 
  - Um dos efeitos colaterais da pandemia foi o aumento de lixos doméstico! 
-  Se liga! "A Associação Brasileira de Empresas de Limpeza Pública e Resíduos Especiais   (Abrelpe) estima que as medidas de distanciamento social geraram no país um aumento de   15% a 25% na quantidade de resíduos domésticos." (Guimarães, sandra. 2020). Isso significa que muitos Brasileiros não tem a prática da reciclagem. Um dos problemas também é a  falta de conhecimento sobre como fazer a reciclagem e onde ou para quem fornecer esses residuos.
+  Se liga! "A Associação Brasileira de Empresas de Limpeza Pública e Resíduos Especiais (Abrelpe) estima que as medidas de distanciamento social geraram no país um aumento de   15% a 25% na quantidade de resíduos domésticos." (Guimarães, sandra. 2020). Isso significa que muitos Brasileiros não tem a prática da reciclagem. Um dos problemas também é a  falta de conhecimento sobre como fazer a reciclagem e onde ou para quem fornecer esses residuos.
  
  <p align="justify"> Veja alguns exemplos de como fazer a coleta:
   
