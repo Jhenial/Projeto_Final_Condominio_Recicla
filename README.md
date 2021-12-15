@@ -1,13 +1,13 @@
 # Projeto_Final_Condominio_Recicla
-
-<h1  align= "center">
-<p> O Condomínio, recicla! faz parte do Projeto Final do Bootcamp da REPROGRAMA - Todas em Tech, turma 14° de Back-End. ♻️  </p>
-
+```diff
++ Bootcamp - REPROGRAMA - Todas em Tech, turma 14° de Back-End. ♻️
+```
 ![logoanimado_gif](https://user-images.githubusercontent.com/86132904/146177159-b5cf1c6b-1c90-4d09-aad5-af2ab08e8ee3.gif)
 
-## :bookmark: Projeto
+## <strong> Condomínio, Recicla! </strong> é um projeto - API, que foi desenvolvido com o auxílio da professora Paula Allemand, para a conclusão do curso de Backend [{Reprograma}](https://reprograma.com.br/).
+                        
 
-<strong> Condomínio, Recicla! </strong> é um projeto - API, que foi desenvolvido com o auxílio da professora Paula Allemand, para a conclusão do curso de Backend [{Reprograma}](https://reprograma.com.br/).
+## :bookmark: Projeto
 
 <p align="justify"><strong>O Objetivo do Projeto Visa:</stronge>
 
@@ -43,9 +43,9 @@
 
 <br>
 
-<p align="justify">O projeto é uma API REST que permite que um responsável, sendo o Síndico do Condomínio, realize o cadastro dos moradores que se sentirem tocados pelo projeto Condomínio, Recicla!, com dados simples como nome do morador, bloco, apartamento e contato para que assim seja possível se ter um controle de quantos moradores o Síndico poderá contar para que esses residuos possam ser destinados para posto de coleta. Nesse caso, o próprio sindico irá se encarregar de fazer os devidos contatos com as pessoas interessadas pelos residuos para que os memos possam buscar no condomínio. Consequentemente, os lixos domésticos não recicláveis, estarão mais limpos e organizados, protejento a saúde dos profissioais Gari que forem fazer o serviço da coleta diária e agredindo menos o meio ambiente.
+<p align="justify">O projeto é uma API REST que permite que um responsável, sendo o Síndico do Condomínio, realize o cadastro dos moradores que se sentirem tocados pelo projeto Condomínio, Recicla!, com dados simples como nome do morador, bloco, apartamento e contato para que assim seja possível se ter um controle de quantos moradores o Síndico poderá contar para que esses resíduos possam ser destinados para posto de coleta. Nesse caso, o próprio síndico irá se encarregar de fazer os devidos contatos com as pessoas interessadas pelos resíduos, para que os memos possam buscar no condomínio. Consequentemente, os lixos domésticos não recicláveis, estarão mais limpos e organizados, protejento a saúde dos profissioais Gari que forem fazer o serviço da coleta diária, e nesse caso também, agredindo menos o meio ambiente.
 
-<p align="justify">A interface é um CRUD completo integrado com o banco de dados, onde é possível listar os moradores, cadastrar novos moradores, atualizar os dados e deletar o cadastro do morador. Tudo isso passando por uma autenticação, gerando um token que permite ou não o acesso as pessoas que estarão no sistema.
+<p align="justify">A interface é um CRUD completo integrado com o banco de dados, onde é possível listar moradores, cadastrar novos moradores, atualizar os dados e deletar o cadastro do morador. Tudo isso passando por uma autenticação, gerando um token que permite ou não o acesso as pessoas que estarão no sistema.
 
   
 <br>
