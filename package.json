@@ -1,0 +1,27 @@
+{
+  "name": "projeto_final_condominio_recicla",
+  "version": "1.0.0",
+  "description": "Projeto Final: Condomínio, Recicla! - Reprograma",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jhenial/Projeto_Final_Condominio_Recicla.git"
+  },
+  "author": "Jeniffer Alves",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jhenial/Projeto_Final_Condominio_Recicla/issues"
+  },
+  "homepage": "https://github.com/Jhenial/Projeto_Final_Condominio_Recicla#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv-safe": "^8.2.0",
+    "express": "^4.17.1",
+    "mongoose": "^6.1.1",
+    "nodemon": "^2.0.15"
+  }
+}
