@@ -141,12 +141,14 @@ O projeto final consiste em uma API fundamentada no CRUD, que são: CREATE (CRIA
 
 ```jsx
 {
-     "_id": "61b8ea3cc31a853f2a3e604e",
-        "morador": "Hanna Santana",
-        "contato": "81999234060",
-        "condominio": "jardim aurora",
+     "mensagem": "Morador cadastrado!",
+    "recicla": {
+        "_id": "61bb449151a7423b41a6715d",
+        "morador": "Fernanda Amancio",
+        "contato": "81999234080",
+        "condominio": "Verde Lar",
         "bloco": "A",
-        "apartamento": "200",
+        "apartamento": "206",
         "__v": 0
 }
 ```
