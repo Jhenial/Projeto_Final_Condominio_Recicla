@@ -74,22 +74,28 @@ O projeto final consiste em uma API fundamentada no CRUD, que são: CREATE (CRIA
  
  Para a construção do projeto, as seguintes tecnologias foram utilizadas:
 
-- [JavaScript](https://www.javascript.com/)
-- [Git/Github](https://github.com/)
-- [Node.js](https://nodejs.org/en/)
-- [MongoDb](https://www.mongodb.com/)
-- [MongoCompass](https://www.mongodb.com/pt-br/products/compass)
-- [MongoDBatlas](https://www.mongodb.com/cloud/atlas)
-- [Postman](https://www.postman.com/)
-- [Vscode](https://code.visualstudio.com/)
+<p  align="justify">
+<a  href="https://www.javascript.com/"><img  alt="Java Script"  src="https://img.shields.io/badge/JavaScript-green">
+<a  href="https://git-scm.com/"><img  alt="Git version"  src="https://img.shields.io/badge/Git/GitHub-green">
+<a  href="https://nodejs.org/pt-br/"><img  alt="Node version"  src="https://img.shields.io/badge/NodeJS-green">
+<a  href="https://www.mongodb.com/cloud/atlas"><img  alt="Node version"  src="https://img.shields.io/badge/MongoDB%20Atlas-green">
+<a  href="https://www.postman.com/"><img  alt="Postman"  src="https://img.shields.io/badge/Postman-purple">
+<a  href="https://code.visualstudio.com/"><img  alt="VsCode"  src="https://img.shields.io/badge/VSCode-purple">
+<a  href="https://dashboard.heroku.com/apps"><img  alt="Heroku"  src="https://img.shields.io/badge/Heroku-purple">
+<a  href=""><img  alt="Mit"  src="https://img.shields.io/badge/Licence MIT-purple"></a>
 
  ### Pacotes Utilizados:
 
-- [Express](https://expressjs.com/pt-br/)
-- [Nodemon](https://nodemon.io/)
-- [dotenv](https://www.npmjs.com/package/dotenv)
-- [Mongoose](https://mongoosejs.com/)
-- [cors](https://www.npmjs.com/package/cors)
+<p  align="justify">
+<a  href="https://expressjs.com/pt-br/"><img  alt="Express version"  src="https://img.shields.io/badge/express-4.17.1-purple">
+<a  href="https://www.npmjs.com/package/nodemon"><img  alt="Nodemon version"  src="https://img.shields.io/badge/nodemon-2.0.6-purple">
+<a  href="https://www.npmjs.com/package/dotenv-safe"><img  alt="Dotenv-safe version"  src="https://img.shields.io/badge/dotenv-8.2.0-purple">
+<a  href="https://mongoosejs.com/"><img  alt="Mongoose version"  src="https://img.shields.io/badge/mongoose-5.10.17-purple">
+<a  href="https://www.npmjs.com/package/cors"><img  alt="npm version"  src="https://img.shields.io/badge/cors-2.8.5-green">
+<a  href="https://www.npmjs.com/"><img  alt="npm version"  src="https://img.shields.io/badge/npm-6.14.6-green">
+<a  href="https://www.npmjs.com/package/bcryptjs"><img  alt="Bcrypt version"  src="https://img.shields.io/badge/bcrypt-5.0.0-green">
+
+</p>
 
 <br>
   
@@ -136,7 +142,27 @@ O projeto final consiste em uma API fundamentada no CRUD, que são: CREATE (CRIA
 * Utilize o [Postman](https://www.postman.com/) para para chamar e testar os endpoints da API localmente ou via Heroku.
 
 <br>
-  
+
+### 🔃 Retorna teste com apresentação 
+
+| Método HTTP  | Endpoint                     | Descrição                            |
+| ------------ | ---------------------------- | ------------------------------------ |
+| GET          | `http://localhost:9051/`     |  Mensagem de apresentação (Index)    |             |
+
+<br>
+
+### 🔃 Manipulação das Rotas Condomínio, Recicla!:
+
+| Método HTTP  | Endpoint                | Descrição                            |
+| ------------ | ----------------------- | ------------------------------------ |
+| GET          | `/recicla/all`          | Retorna todos os moradores              |
+| GET          | `/buscar/:id`           | Retorna moradot por id                  |
+| POST         | `/create`               | Cria/cadastra um novo morador           |
+| PUT          | `/update/:id`           | Altera informações do morador           |
+| DELET        | `/delite/:id`           | Remove um morador                       |
+
+<br>
+   
 ## ✅ API deve retornar seguinte JSON:
 
 ```jsx
@@ -165,4 +191,6 @@ O projeto final consiste em uma API fundamentada no CRUD, que são: CREATE (CRIA
 ## [LinkedIn](https://www.linkedin.com/in/jeniffer-a-472230107/) 
 
 <br>
+  
+
  
