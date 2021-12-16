@@ -137,4 +137,18 @@ O projeto final consiste em uma API fundamentada no CRUD, que são: CREATE (CRIA
 
 <br>
   
+## ✅ API deve retornar seguinte JSON:
+
+```jsx
+{
+     "_id": "61b8ea3cc31a853f2a3e604e",
+        "morador": "Hanna Santana",
+        "contato": "81999234060",
+        "condominio": "jardim aurora",
+        "bloco": "A",
+        "apartamento": "200",
+        "__v": 0
+}
+```
+  
  
