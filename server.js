@@ -1,4 +1,4 @@
-const app = require ('./SRC/app')
+const app = require ('./src/app')
 
 const PORT = process.env.PORT
 
