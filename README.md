@@ -131,7 +131,7 @@ O projeto final consiste em uma API fundamentada no CRUD, que são: CREATE (CRIA
 
 * Heroku: https://condominio-recicla.herokuapp.com
 
-* Trello: https://trello.com/invite/b/l0RknacY/ce18d6058ce5c71de0c5994f8adee543/curso-reprograma
+* Trello: https://trello.com/b/l0RknacY/curso-reprograma
 
 * Utilize o [Postman](https://www.postman.com/) para para chamar e testar os endpoints da API localmente ou via Heroku.
 
