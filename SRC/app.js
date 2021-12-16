@@ -8,6 +8,8 @@ const cors = require ('cors')
 const database = require('./database/config')
 const recicla = require('./Routers/reciclaRoutes')
 
+database.connect()
+
 app.use(cors()) //usando o cors
 app.use(express.json()) //usando o bodyparser
 
@@ -16,12 +18,5 @@ app.get('/', (req, res)=>{
 })
 
 app.use("/recicla", recicla)
-
-database.connect()
-
-
-
-
-
 
 module.exports = app
