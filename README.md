@@ -11,12 +11,12 @@
 
 <p align="justify"><strong>O Objetivo do Projeto Visa:</stronge>
 
-  - Incentivar a coleta seletiva aos moradores de condominio;
+  - Incentivar a coleta seletiva aos moradores de condomínio;
   - Incentivar a Responsabilidade Socioambiental;
   - Contribuir para um Presente/Futuro com menos impacto ambiental;
   - Garantir mais segurança, tendo os devidos cuidados com residuos perigosos, para os Profissionais da Coleta;
   - Garantir o Direito a Dignidade para as Pessoas que precisam da catação de lixo para o sustento;
-  - Contribuir para o empreendedorismo Sustentável.
+  - Contribuir para o empreendedorismo sustentável.
  
 <p align="justify"> Há muito tempo, o tema coleta seletiva se tornou um assunto de extrema importância e de responsabilidade do Estado, Empresas e Sociedade. A Política Nacional de Resíduos Sólidos - LEI Nº 12.305, DE 2 DE AGOSTO DE 2010 - determina que os lixos produzidos tenham a destinação correta.
  
@@ -43,9 +43,9 @@
 
 <br>
 
-<p align="justify">O projeto é uma API REST que permite que um responsável, sendo o Síndico do Condomínio, realize o cadastro dos moradores que se sentirem tocados pelo projeto Condomínio, Recicla!, com dados simples como nome do morador, bloco, apartamento e contato para que assim seja possível se ter um controle de quantos moradores o Síndico poderá contar para que esses resíduos possam ser destinados para posto de coleta. Nesse caso, o próprio síndico irá se encarregar de fazer os devidos contatos com as pessoas interessadas pelos resíduos, para que os memos possam buscar no condomínio. Consequentemente, os lixos domésticos não recicláveis, estarão mais limpos e organizados, protejento a saúde dos profissioais Gari que forem fazer o serviço da coleta diária, e nesse caso também, agredindo menos o meio ambiente.
+<p align="justify">O projeto é uma API REST que permite que um responsável, nesse caso, será o Síndico do Condomínio, para realizar o cadastro dos moradores que se sentirem tocados pelo projeto Condomínio, Recicla!, com dados simples como nome do morador, bloco, apartamento e contato para que assim seja possível se ter um controle de quantos moradores o Síndico poderá contar para que esses resíduos possam ser destinados para posto de coleta. Nesse caso, o próprio síndico irá se encarregar de fazer os devidos contatos com as pessoas interessadas pelos resíduos, para que os mesmos possam buscar no condomínio. Consequentemente, os lixos domésticos não recicláveis, estarão mais limpos e organizados, protegendo a saúde dos profissionais Gari que forem fazer o serviço da coleta diária, e nesse caso também, agredindo menos o meio ambiente.
 
-<p align="justify">A interface é um CRUD completo integrado com o banco de dados, onde é possível listar moradores, cadastrar novos moradores, atualizar os dados e deletar o cadastro do morador. Tudo isso passando por uma autenticação, gerando um token que permite ou não o acesso as pessoas que estarão no sistema.
+<p align="justify">A interface é um CRUD completo integrado com o banco de dados, onde é possível listar moradores, cadastrar novos moradores, atualizar os dados e deletar o cadastro do morador. Tudo isso passando por uma autenticação, gerando um token que permite ou não o acesso às pessoas que estarão no sistema.
 
   
 <br>
