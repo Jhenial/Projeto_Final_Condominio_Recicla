@@ -1,5 +1,4 @@
 //chamando as minhas dependencias:
-require("dotenv-safe").config()
 const express = require ('express')
 const app = express()
 const cors = require ('cors')
@@ -7,6 +6,8 @@ const cors = require ('cors')
 //conectando o bd:
 const database = require('./database/config')
 const recicla = require('./Routers/reciclaRoutes')
+
+require("dotenv-safe").config()
 
 database.connect()
 

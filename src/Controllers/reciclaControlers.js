@@ -1,4 +1,4 @@
-const reciclaCollection = require("../models/reciclaSchema")
+const reciclaCollection = require("../Models/reciclaSchema")
 
 
 const getALL = async(req, res) =>{
