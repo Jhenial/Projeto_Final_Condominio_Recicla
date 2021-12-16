@@ -129,7 +129,7 @@ O projeto final consiste em uma API fundamentada no CRUD, que são: CREATE (CRIA
 
 * local: http://localhost:9051
 
-* Heroku: 
+* Heroku: https://condominio-recicla.herokuapp.com
 
 * Utilize o [Postman](https://www.postman.com/) para para chamar e testar os endpoints da API localmente ou via Heroku.
 
