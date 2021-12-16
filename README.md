@@ -153,4 +153,16 @@ O projeto final consiste em uma API fundamentada no CRUD, que são: CREATE (CRIA
 }
 ```
   
+## 👨‍💻 Autora
+
+<br>
+
+<td align="center"><a href="https://https://github.com/Jhenial">
+<img style="border-radius: 20%;" src="https://avatars.githubusercontent.com/u/86132904?v=4" width="200px;" alt=""/> </td><br> 
+
+
+## [Jeniffer Alves](https://github.com/Jhenial)
+## [LinkedIn](https://www.linkedin.com/in/jeniffer-a-472230107/) 
+
+<br>
  
